@@ -1,0 +1,29 @@
+name = "Harry"
+age = 34
+Salary = 5000
+Height = 1.23
+Weight = 78.45
+gender = True
+
+# Why to learn data's Types:
+    # x ==> "Apple"
+    # y ==> True
+    # Arithmetic Operation  ==> Only if x and y values are numeric
+
+#---------------------------------------------------------------
+# What are the different datatypes available in python:
+    # Premitive datatypes:
+        # Number:
+            # Integer, Float, Complex
+        # String:
+            # Contains charecters [Alphabets, Numbers, Special Charecters]
+        # Boolean:
+            # binary representation
+    
+    # Non-Premitive datatypes:
+        # Collections:
+            # List, Tuple, Set, Frozenset
+        # Range:
+            #
+        # Dictionary:
+            
